@@ -8,6 +8,9 @@ level: 0
 region: Africa
 
 auto-migrated: 1
+meetup-group: owaspportlouis
+country: Mauritius
+postal-code: 
 
 ---
 
